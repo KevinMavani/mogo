@@ -1,0 +1,306 @@
+@media (min-width:992px) and (max-width: 1199px) {
+    .header {
+        margin-bottom: -90px;
+    }
+    .team-res {
+        max-width: 100%;
+    }
+    #banner {
+        height: 650px;
+    }
+    .border-line {
+        margin-left: 48%;
+    }
+    .about-image {
+        max-width: 100%;
+    }
+    .about-img1,
+    .about-img2,
+    .about-img3,
+    .bg-overlay-1,
+    .about-overlay,
+    .team-overlay,
+    .team-img1,
+    .team-img2,
+    .team-img3,
+    .bg-overlay {
+        width: 310px;
+        height: 100%;
+    }
+    .blog-img {
+        width: 310px;
+        height: 240px;
+    }
+    .blog-res {
+        max-width: 100%;
+    }
+    .footer {
+        max-width: 100%;
+    }
+    .service-img {
+        width: 100%;
+    }
+    .navigation-link a {
+        padding-left: 0px;
+    }
+    .quote-main img {
+        margin-left: 20px;
+        /* margin-top: 0px; */
+        width: 80%;
+    }
+    .display-image img {
+        margin-left: -8%;
+    }
+}
+
+@media (max-width:768px) {
+    .header {
+        margin-bottom: -30px;
+        max-width: 100%;
+    }
+    #banner {
+        height: 500px;
+    }
+    .progressBarContainer p {
+        font-size: 20px;
+    }
+    .about-image {
+        max-width: 100%;
+    }
+    .banner-text p {
+        font-size: 36px;
+    }
+    .navigation-link a {
+        /* padding-left: 0px; */
+        font-size: 14px;
+    }
+    .icon {
+        padding-left: 10px;
+    }
+    .banner-text .banner-msg {
+        font-size: 60px;
+        line-height: 55px;
+        margin-top: 0px;
+    }
+    .about-img1,
+    .about-img2,
+    .about-img3,
+    .bg-overlay-1,
+    .about-overlay,
+    .team-overlay,
+    .team-img1,
+    .team-img2,
+    .team-img3,
+    .bg-overlay {
+        width: 230px;
+        height: 100%;
+    }
+    .blog-img {
+        width: 230px;
+        height: 240px;
+    }
+    .unique-design {
+        max-height: 745px;
+        max-width: 100%;
+    }
+    .display-image img {
+        width: 100%;
+    }
+    .achievement-detail {
+        max-width: 16%;
+    }
+    .achievement-number {
+        font-size: 36px;
+    }
+    .achievement-title {
+        font-size: 7px;
+    }
+    .row.work-detail img {
+        margin-left: -13px;
+    }
+    /* .team-res {
+        max-width: 50%;
+    } */
+    .quote-main img {
+        margin-left: 5px;
+        margin-top: 35px;
+        width: 90%;
+    }
+    .logos {
+        max-width: 100%;
+    }
+    .logos img {
+        max-width: 100%;
+    }
+    .work-quote img {
+        margin-left: 65px;
+        margin-top: 40px;
+    }
+    .quote-text {
+        width: 350px;
+    }
+    .client-img img {
+        max-width: 100%;
+        margin-top: 70px;
+    }
+    .blog-res {
+        max-width: 100%;
+    }
+    .blog-title {
+        font-size: 8px;
+    }
+    .blog-description {
+        font-size: 9px;
+    }
+    .footer {
+        max-width: 95%;
+    }
+}
+
+@media (max-width:360px) {
+    .banner-text p {
+        font-size: 30px;
+    }
+    .banner-text .banner-msg {
+        font-size: 42px;
+        line-height: 40px;
+    }
+    .progressBarContainer p {
+        font-size: 9px;
+    }
+    .banner-button {
+        margin-left: 20px;
+    }
+    .banner-line {
+        margin-left: 45%;
+    }
+    .header-2 {
+        max-width: 100%;
+    }
+    .service-img {
+        width: 100%;
+    }
+    .about-text {
+        font-size: 16px;
+    }
+    .about-heading {
+        font-size: 20px;
+    }
+    .border-line {
+        margin-left: 43%;
+    }
+    .about-paragraph {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .about-img1,
+    .about-img2,
+    .about-img3,
+    .bg-overlay-1,
+    .about-overlay,
+    .team-overlay,
+    .team-img1,
+    .team-img2,
+    .team-img3,
+    .bg-overlay {
+        width: 316px;
+        height: 90%;
+    }
+    .blog-img {
+        width: 330px;
+        height: 240px;
+    }
+    .bl-work {
+        margin-left: 43%;
+    }
+    .wd {
+        margin-left: 40px;
+    }
+    .achievement-number {
+        font-size: 24px;
+    }
+    /* .achievement-title {
+        font-size: 8px;
+    } */
+    .work-img {
+        position: relative;
+        top: -30px;
+        left: 20px;
+        width: 80%;
+        margin-left: 30px;
+    }
+    .quote-main img {
+        width: 70%;
+        margin-bottom: 10px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+    .quote-name {
+        position: relative;
+        bottom: 12px;
+        font-size: 15px;
+    }
+    .carousel-control-next {
+        right: 15px;
+    }
+    .quote-text {
+        font-size: 10px;
+        line-height: 12px;
+        width: 100%;
+    }
+    .author-field {
+        font-size: 12px;
+        line-height: 10px;
+        padding-bottom: 150px;
+    }
+    .author-name {
+        font-size: 18px;
+        padding-top: 10px;
+    }
+    .client-image {
+        margin-bottom: -60px;
+        margin-top: 0px;
+    }
+    .border-margin {
+        margin-bottom: 100px;
+    }
+    .author-res {
+        text-align: center;
+    }
+    .blog-title {
+        font-size: 14px;
+    }
+    .blog-description {
+        font-size: 12px;
+    }
+    .footer-icon {
+        padding-right: 5px;
+        font-size: 12px;
+    }
+    .div2 {
+        padding-left: 10px;
+    }
+    .div3 {
+        padding-left: 10px;
+    }
+    .main-logo h3 {
+        margin-left: 0px;
+    }
+    .icon {
+        margin-left: -10px;
+    }
+    .footer-title {
+        margin-top: 30px;
+    }
+    .navigation-link a:hover {
+        color: #fce38a;
+        border-bottom: 3px solid #fce38a;
+        width: 80px;
+    }
+    .unique-design {
+        height: 450px;
+    }
+    .footer-insta {
+        max-width: 110%;
+    }
+}
