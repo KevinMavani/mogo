@@ -337,6 +337,7 @@
     }
     
     .about-image {
+        max-width: initial;
         margin-bottom: 25px;
     }
     
@@ -392,12 +393,54 @@
     }
     
     /* Services Section */
+    .service-img{
+        max-width: 100%;
+    }
+    
     .collapsing-service {
         top: -15px;
     }
     
     .service-right {
         margin-bottom: 0px;
+    }
+    
+    /* team */
+    .team-overlay {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100% !important;
+        height: 100% !important;
+        left: 0px !important;
+    }
+    
+    .team-overlay i {
+        position: initial;
+        display: inline;
+    }
+    
+    .team-overlay a:hover{
+        text-decoration: none;
+    }
+    
+    .team-item {
+        display: inline-block;
+        text-align: center;
+        position: relative;
+        display: inline-block;
+    }
+    
+    .author-name{
+        padding-top: 10px;
+    }
+    
+    .author-field{
+        padding-bottom: 10px;
+    }
+    
+    .logos{
+        margin-top: 20px;
     }
     
     /* Quote Section */
@@ -453,6 +496,15 @@
     
     .calender {
         left: -20px;
+    }
+    
+    .footer-insta {
+        max-width: 100%;
+    }
+    
+    .footer-insta .insta-img{
+        display: flex;
+        justify-content: space-evenly;
     }
     
 }
